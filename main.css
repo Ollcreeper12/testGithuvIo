@@ -1,3 +1,7 @@
 body {
     background-color: rgb(48, 8, 85);
 }
+
+.buttons.btn_help {
+    cursor: ".help";
+}
