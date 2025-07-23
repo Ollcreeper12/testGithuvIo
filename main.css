@@ -5,3 +5,28 @@ body {
 .btn_help {
     cursor: help;
 }
+
+.btn_bg {
+    cursor: progress;
+}
+
+.btn_busy {
+    cursor: wait;
+}
+
+.btn_pre-sel {
+    cursor: help;
+}
+
+.btn_text-sel {
+    cursor: text;
+}
+
+.btn_help {
+    cursor: help;
+}
+v
+
+.btn_help {
+    cursor: help;
+}
